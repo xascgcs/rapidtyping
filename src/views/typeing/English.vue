@@ -2,9 +2,9 @@
  * @Author       : hegaohong
  * @Date         : 2023-08-19 17:29:44
  * @LastEditors  : zhanglu
- * @LastEditTime : 2023-08-19 19:18:38
+ * @LastEditTime : 2023-08-20 09:22:26
  * @company      : 沐秦智能
- * @FilePath     : \Type-test\src\views\typeing\English.vue
+ * @FilePath     : \repidtyping\src\views\typeing\English.vue
  * @Descripttion : 
 -->
 <template>
@@ -41,7 +41,7 @@
   .content-item {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     .pinyin {
       display: flex;
@@ -50,11 +50,9 @@
       margin-left: 0;
       span {
         display: block;
-        width: 0.42rem;
+        width: 0.19rem;
         height: 0.62rem;
         text-align: center;
-        margin: 0.06rem 0.04rem;
-        padding: 0.08rem;
         color: #fff;
         box-sizing: border-box;
       }
