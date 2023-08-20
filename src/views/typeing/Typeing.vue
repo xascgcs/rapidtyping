@@ -15,7 +15,7 @@
           </div>
         </div>
       </div>
-      <div class="complete" v-else="isComplete">
+      <div class="complete" v-else>
         <div class="complete-info" v-show="!isFirstKeyDown">
           <div>
             速度：<span>{{ speed }}</span

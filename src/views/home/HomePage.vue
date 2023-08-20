@@ -39,7 +39,7 @@
           <div>
             <img src="/imgs/homepage/english.png" alt="" srcset="" />
           </div>
-          <div>英文练习1</div>
+          <div>英文练习</div>
         </div>
       </div>
     </div>
